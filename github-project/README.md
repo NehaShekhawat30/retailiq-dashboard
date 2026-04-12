@@ -1,19 +1,7 @@
 # 📊 RetailIQ — Retail Sales & Profit Dashboard
 
-A fully interactive retail analytics dashboard built with **vanilla HTML, CSS, and JavaScript** using the Superstore dataset. No frameworks, no build tools — just open `index.html` in a browser.
+A fully interactive retail analytics dashboard built with **vanilla HTML, CSS, and JavaScript** using the Superstore dataset. No frameworks, no build tools — just open  in a browser.
 
-![Dashboard Preview](assets/screenshots/preview.png)
-
----
-
-## 🚀 Live Demo
-
-> Open `index.html` in any modern browser. No server needed.
-
-Or view it on GitHub Pages:
-`https://yourusername.github.io/retailiq-dashboard`
-
----
 
 ## 📁 Project Structure
 
